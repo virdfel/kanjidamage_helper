@@ -1,1 +1,1 @@
-hello world
+<h1>Kanjidamage helper<h1>
