@@ -16,15 +16,17 @@ https://www.kanjidamage.com/
 
 - **3**. Change Anki Card Type template
 	- **3.1**  Add JQuery library (came with "Official KanjiDamage deck")
-		```<script type="text/javascript" src="_jquery-2.2.2.min.js"></script>```
-		
+   
+   		```<script type="text/javascript" src="_jquery-2.2.2.min.js"></script>```
 	- **3.2**  Add script
+  
 		```<script type="text/javascript" src="_kanjidamage_anki_v0.1.js"></script>```
 		
 	- **3.3**  Add popup
+   
 		```<div id="kdpp"></div>```
 		
-	- **3.4**  Add class "kd" to area where to search Kanji
+	- **3.4**  Add class ```kd``` to area where to search Kanji
 		```<div class="kd">{{kanjis}}</div>```
 		
 	- **3.5**  Add styling
