@@ -1,8 +1,11 @@
 # Kanjidamage helper
 
-Helps to find Kanji (meaning, components, onyomi, stroke order) in a text.
+Helps to find Kanji (meaning, components, onyomi, stroke order).
 
-https://www.kanjidamage.com/
+Source: https://www.kanjidamage.com/
+
+![plot](/source/img/github_01.jpg)
+
 
 ### A. How to: Desktop
 - **1** Open ```kanjidamagehelper.html``` in your Web Browser, save in Bookmarks if required.
@@ -70,6 +73,8 @@ https://www.kanjidamage.com/
 	width: 150px;
 }
 ```
+![plot](/source/img/install_guide_01.jpg)
+![plot](/source/img/install_guide_02.jpg)
 
 ### C. Customization
 - **1** File ```/source/script.js```
