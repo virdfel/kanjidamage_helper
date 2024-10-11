@@ -12,12 +12,12 @@ Source: https://www.kanjidamage.com/
 
 ### B. How to use: Anki
 ### Installation
-- **1** Add ```Official KanjiDamage deck``` (https://ankiweb.net/shared/info/748570187) to Anki, it will download required images and JQuery library for a script work.
+- **1** Add ```Official KanjiDamage deck``` (https://ankiweb.net/shared/info/748570187) or reordered version, it will download required images and JQuery library for a script work.
 
 - **2** Add script ```anki/kanjidamage_anki_v0.1.js``` to folder ```APPDATA%\Roaming\Anki2\{profile name}\collection.media\```
 	- **2.1**  To open ```%APPDATA%``` folder press ```Windows logo Key + R```, then type ```%APPDATA%``` and press ```Enter```
 
-- **3**. Change Anki Card Type template
+- **3** Change Anki Card Type template
 	- **3.1**  Add JQuery library (came with "Official KanjiDamage deck")
    
    		```<script type="text/javascript" src="_jquery-2.2.2.min.js"></script>```
@@ -91,6 +91,7 @@ Source: https://www.kanjidamage.com/
 		var kid = kfoundid[i]; //sort by number
 		//var kid = data[kfoundid[i]][5]; //sort by frequency
 		```
+![plot](/source/img/install_guide_05.jpg)
 - **2** File /source/style.css
 	- **2.1** Change text color, size and font
 		```
