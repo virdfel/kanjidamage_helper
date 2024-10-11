@@ -4,7 +4,7 @@ Helps to find Kanji (meaning, components, onyomi, stroke order).
 
 Source: https://www.kanjidamage.com/
 
-![plot](/source/img/github_01.jpg)
+![plot](/source/img/kd_01.gif)
 
 
 ### A. How to: Desktop
@@ -73,6 +73,9 @@ Source: https://www.kanjidamage.com/
 	width: 150px;
 }
 ```
+
+- **4** How it looks
+  
 ![plot](/source/img/install_guide_01.jpg)
 ![plot](/source/img/install_guide_02.jpg)
 
