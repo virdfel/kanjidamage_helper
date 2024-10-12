@@ -10,6 +10,7 @@ Source: https://www.kanjidamage.com/
 ### A. How to: Desktop
 - **0** Download and unpack files (Code > Download ZIP)
 - **1** Open ```kanjidamagehelper.html``` in your Web Browser, save in Bookmarks if required.
+- **2** Hold ```CTR``` and mouseover on the Kanji.
 
 ### B. How to use: Anki
 ### Installation
