@@ -2,7 +2,7 @@
 
 Helps to find Kanji (meaning, components, onyomi, stroke order).
 
-Source: https://www.kanjidamage.com/
+[KanjiDamage](https://www.kanjidamage.com/) | [Reddit](https://www.reddit.com/r/LearnJapanese/comments/1g1obu2/kanjidamage_helper/ "Reddit")
 
 ![plot](/source/img/kd_01.gif)
 
